@@ -26,7 +26,8 @@ var tempStr2 = textObj.innerHTML.substring(end);
 document.getElementById("content").innerHTML = tempStr1 + selectedText + tempStr2 ; 
 
   alert(" i like your");
-   console.log("i very  like you");
+  console.log("i very  like you");
+  console.log("year, i slove this problem successfully,I am so very  happy");
 
 } 
 
