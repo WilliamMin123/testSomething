@@ -29,6 +29,8 @@ document.getElementById("content").innerHTML = tempStr1 + selectedText + tempStr
   console.log("i very  like you");
   console.log("year, i slove this problem successfully,I am so very  happy");
 
+  alert("fasa");
+
 } 
 
 
